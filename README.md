@@ -15,14 +15,14 @@ To install the application, run following commands
 ```bash
 git clone https://github.com/aravikishore/tt-bitcoin-pricing.git
 cd tt-bitcoin-pricing
-
-## Build and Run the Application
+```
+## Build and Run Application
 ```bash
 mvn clean spring-boot:run
+```
 
-
-## Test Services
+## Verify Services
 ```bash
 Swagger UI was enabled please use swagger-ui to verify the services
 http://127.0.0.1:8080/swagger-ui.html
-```bash
+```
